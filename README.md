@@ -3,7 +3,7 @@
 spring cloud各组件使用。包括zuul，spring cloud gateway，eureka，nacos，openfeign，ribbon，hystrix，sentinel等
 
 ## spring cloud各组件
-<div align=center><img width="1055" height="351" src="https://github.com/handsomestWei/learn-spring-cloud/blob/main/doc/spring-cloud-components.png" /></div>
+<div align=center><img width="1055" height="351" src="https://github.com/handsomestWei/learn-spring-cloud/blob/master/doc/spring-cloud-components.png" /></div>
 
 ## Usage
 
