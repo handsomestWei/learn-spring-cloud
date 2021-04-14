@@ -35,6 +35,10 @@ eureka保证AP。客户端遍历集群内可用的节点保障A可用性，但�
 
 ### Nacos
 [官方文档](https://nacos.io/zh-cn/docs/what-is-nacos.html)
+#### 一致性协议
+```
+支持CP、AP两种模式和切换
+```
 #### 单机版部署
 ```
 cmd /nacos/bin/startup.cmd -m standalone
